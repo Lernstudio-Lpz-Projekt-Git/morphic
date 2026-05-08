@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { Palette } from '../types'
 
-const props = defineProps<{
+defineProps<{
   palettes: Palette[]
   selectedPalette: number
   mousePercX: number
