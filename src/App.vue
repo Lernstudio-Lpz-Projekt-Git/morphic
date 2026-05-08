@@ -78,7 +78,7 @@ onBeforeUnmount(() => {
     <!-- Mitte: Hero -->
     <div class="center">
       <div class="title-eyebrow">Vue 3 · TypeScript · Canvas</div>
-      <h1 class="title-main">Sound<em>phic</em></h1>
+      <h1 class="title-main">Universe<em>phic</em></h1>
       <p class="title-sub">
         Bewege die Maus — Partikel weichen aus.<br />
         Steuere das Universum links.
